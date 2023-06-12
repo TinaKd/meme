@@ -15,7 +15,7 @@ p{
 
 
 .poster{
-    width: 5%;
+    width: 100px;
     margin-left: 35%;
     margin-top: 100px;
     color: white;
@@ -27,7 +27,7 @@ p{
     
 .motivation-img {
     border: 5px solid white;
-    width: 5%;
+    width: 100px;
   }
  
 
